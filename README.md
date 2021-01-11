@@ -1,5 +1,7 @@
 # CatWISEDipole
-Code associated with arXiv:2009.14826
+Code associated with arXiv:2009.14826 , https://inspirehep.net/literature/1820376
+
+
 
 CatWISEAnisotropy.ipynb : Illustrates aspects of selection such as masking.
 
