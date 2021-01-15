@@ -9,6 +9,6 @@ runsimulations_CatWISE.py
 dipolefunctions_CatWISE.py
 helperfunctions.py
 
-Data can be found at : https://zenodo.org/record/4431090
+Data can be found at : https://doi.org/10.5281/zenodo.4431089
 
 Contact: mrameezphysics@outlook.com for queries
